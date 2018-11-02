@@ -3,7 +3,7 @@
 List of confirmed working devices (Probably more out there):
 * LEMFO LEM8
 
-Add to `.repo/local_manifests/unity.xml`:
+Add to `.repo/local_manifests/play.xml`:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
