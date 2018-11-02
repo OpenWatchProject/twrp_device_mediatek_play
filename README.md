@@ -1,7 +1,7 @@
 ## TWRP device tree for various mt6739 based smartwatches
 
 List of confirmed working devices (Probably more out there):
-* LEMFO LEM9
+* LEMFO LEM8
 
 Add to `.repo/local_manifests/unity.xml`:
 
